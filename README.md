@@ -1,2 +1,3 @@
 # Vinoda
-Student dbms
+Student dbms project
+
